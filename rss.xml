@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[College Funding Consultants]]></title>
         <description><![CDATA[College Funding Consultants]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/college-funding-consultants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 13:42:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 13:50:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/college-funding-consultants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Workshops Are Free]]></title>
+            <description><![CDATA[<article><h1>Our Workshops Are Free</h1><p>College Funding Consultants conducts workshops throughout the triangle. Some of our recent invitations include: Chapel Hill High School, Carrboro High School, East Chapel Hill High School, Jordan High School, Cedar Ridge High School, Smith Middle School, Culbreth Middle School, Trinity School of Durham and Chapel Hill, SAS and Durham Orange Estate Planning Council. If you are interested in having a workshop presented at your school, club or employer, please contact us for details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c7e789780e69c7c5241aa73726bfddeb261154e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/college-funding-consultants/our-workshops/index.html</link>
+            <guid isPermaLink="false">13e4744d-50b9-4e28-b75b-e80c07f4d583</guid>
+            <pubDate>Sun, 07 Feb 2016 13:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Pay for College]]></title>
-            <description><![CDATA[<article><h1>How to Pay for College</h1><p>Paying for college can be daunting. We have the strategies you need to pay for all your children.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da58d2182d26c7c82feaf5b76891e8316ce50c91.jpg"></article>]]></description>
-            <link>undefinedhow-to-pay-for-college/index.html</link>
+            <description><![CDATA[<article><h1>How to Pay for College</h1><p>Paying for college can be daunting. We have the strategies you need to pay for all your children.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c379762da65d736d7737167b427677ff0a696bf3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/college-funding-consultants/how-to-pay-for-college/index.html</link>
             <guid isPermaLink="false">ef6c5285-f7e5-4368-88e2-e65582281455</guid>
             <pubDate>Sun, 07 Feb 2016 13:41:55 GMT</pubDate>
         </item>
