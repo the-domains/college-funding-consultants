@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[College Funding Consultants]]></title>
+        <description><![CDATA[College Funding Consultants]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 13:42:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Pay for College]]></title>
+            <description><![CDATA[<article><h1>How to Pay for College</h1><p>Paying for college can be daunting. We have the strategies you need to pay for all your children.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da58d2182d26c7c82feaf5b76891e8316ce50c91.jpg"></article>]]></description>
+            <link>undefinedhow-to-pay-for-college/index.html</link>
+            <guid isPermaLink="false">ef6c5285-f7e5-4368-88e2-e65582281455</guid>
+            <pubDate>Sun, 07 Feb 2016 13:41:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
